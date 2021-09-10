@@ -1,2 +1,2 @@
 # ionic-ecommerce-app
-Ionic 3 E-commerce application
+Vaanibam Mobile app Private app 
